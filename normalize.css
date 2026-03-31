@@ -12,16 +12,15 @@ body {
 
 }
 
-.place {
+article {
     border: 1px solid #CCC;
     border-color: #CCC #999 #999 #CCC;
     margin-bottom: 20px;
     padding: 10px;
     background: #fff;
-  
 }
 
-.place img {
+article img {
     border: 1px solid #7E9F19;
     float: left;
     margin: 10px 10px 0 0;
@@ -32,7 +31,7 @@ body {
     clear: both;
 }
 
-.place h2 {
+article h2 {
     border-bottom: 1px dashed #7E9F19;
     margin: 0;
 }
